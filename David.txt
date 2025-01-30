@@ -1,0 +1,5 @@
+Add relevant title hereeeee: # Correct the typo
+
+Create your own fork and then explain, in a single paragraph, the git success path to push your changes to the remote repo (pull, add, commit, push).
+
+When finished, this file shall only contain your title and the information requested.
